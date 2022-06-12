@@ -16,3 +16,13 @@ I am 38 years old. Last six years I working a driver. Have a good soft skills. I
 * JavaScript(Start level)
 * Git
 * Figma
+
+## Code example
+
+let page = document.querySelector('.page');
+let tree_btn = document.querySelector('.tree_btn');
+
+tree_btn.onclick = function() {
+  page.classList.toggle('tree');
+  page.classList.toggle('tree_del');
+};
