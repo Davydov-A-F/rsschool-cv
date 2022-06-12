@@ -25,6 +25,20 @@ let tree_btn = document.querySelector('.tree_btn');
 
 
 tree_btn.onclick = function() {
+
   page.classList.toggle('tree');
+  
   page.classList.toggle('tree_del');
 };
+
+## Education
+* Saratov State Technical University 
++ Financial Management (2002-2008)
++Web-developer(basic web development course(2020))
+
+*HTML Academy
++ HTML/CSS
+
+## Languages
+* Russian - native speaker
+* English - A2
