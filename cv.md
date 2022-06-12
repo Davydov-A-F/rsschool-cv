@@ -9,3 +9,10 @@
 
 ## About me
 I am 38 years old. Last six years I working a driver. Have a good soft skills. I want to learn a promissing profession  frontend-developer.
+
+## Skills
+* HTML
+* CSS(BEM)
+* JavaScript(Start level)
+* Git
+* Figma
