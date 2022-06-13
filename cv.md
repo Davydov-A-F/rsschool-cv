@@ -36,7 +36,7 @@ tree_btn.onclick = function() {
 + Financial Management (2002-2008)
 +Web-developer(basic web development course(2020))
 
-*HTML Academy
+* HTML Academy
 + HTML/CSS
 
 ## Languages
